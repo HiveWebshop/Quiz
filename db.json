@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        { "text": "Marseille", "isCorrect": false },
+        { "text": "Paris", "isCorrect": true },
+        { "text": "Calais", "isCorrect": false },
+        { "text": "Monaco", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of India?",
+      "answers": [
+        { "text": "Delhi", "isCorrect": true },
+        { "text": "Mumbai", "isCorrect": false },
+        { "text": "Kolkata", "isCorrect": false },
+        { "text": "Chennai", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of USA?",
+      "answers": [
+        { "text": "New York", "isCorrect": false },
+        { "text": "Washington DC", "isCorrect": true },
+        { "text": "Los Angeles", "isCorrect": false },
+        { "text": "Chicago", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answers": [
+        { "text": "Sydney", "isCorrect": false },
+        { "text": "Melbourne", "isCorrect": false },
+        { "text": "Canberra", "isCorrect": true },
+        { "text": "Perth", "isCorrect": false }
+      ]
+    }
+  ]
+}
