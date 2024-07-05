@@ -42,7 +42,7 @@ For this task, create the quiz layout with hardcoded data. You can use the follo
  {
   questions: [
     {
-      id: abc123457u9,
+      id: 'abc123457u',
       question: 'What is the capital of France?',
       answers: [
         { text: 'London', isCorrect: false },
